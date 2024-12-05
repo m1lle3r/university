@@ -1,0 +1,2693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="format-detection" content="telephone=no">
+
+  
+    <title>Автосервисы и автотехцентры в Москве - адреса, телефоны и отзывы</title>
+  
+
+  <meta name="keywords" content="Автосервисы и автотехцентры, Автосервисы и автотехцентры в Москве, отзывы, адреса, фото, справочник, список"/>
+  <meta name="description" content="Автосервисы и автотехцентры в Москве - все услуги с адресами, телефонами и отзывами - Spravker.ru"/>
+  <meta name='yandex-verification' content='61bbe5c8c93357ac'/>
+  
+  
+  <link rel="canonical" href="https://msk.spravker.ru/avtoservisy-avtotehcentry/"/>
+  
+  <link href='https://s.spravker.ru/static/front/css/app.3899861e7288.css' rel='stylesheet' type='text/css'>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://s.spravker.ru/static/favicon/apple-touch-icon.ce9b5ec06a58.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://s.spravker.ru/static/favicon/favicon-32x32.6d518133ed23.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://s.spravker.ru/static/favicon/favicon-16x16.c6bdfde884f0.png">
+  <link rel="mask-icon" href="https://s.spravker.ru/static/favicon/safari-pinned-tab.d5b0e8ed8bbc.svg" color="#df3f00">
+
+  
+    <script type="text/javascript">
+        var city_absolute_url = '/';
+        var city_id = 16;
+        var city = {
+            "id": 583,
+            "absolute_url": "/",
+        }
+        
+        var user = null;
+        
+        
+    </script>
+  
+  <script type="text/javascript">
+    window.yaParams = {}
+    window.yaParams.Domain = "msk.spravker.ru";
+    
+    window.yaParams.City = 'msk';
+    window.yaParams.CityIsNewSecondary = false;
+    window.yaParams.Population = '3000k+';
+    
+  </script>
+  
+  <script>window.yaContextCb=window.yaContextCb||[]</script>
+  <script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+<body>
+<div id="project">
+  <header class="main-header">
+    <!-- begin main-header-top -->
+    <div class="main-header-top">
+      <div class="container">
+        <div class="main-header-top__in">
+          <!-- begin main-header-top__city -->
+          <div class="main-header-top__city">
+            <div class="main-header-city">
+              <span class="main-header-city__overlay js-city-trigger"></span>
+              <a class="main-header-city__blazon" href="/">
+                
+                  <img src="https://spr.website.yandexcloud.net/media/region/logo/msk.png" class="main-header-city__blazon-img"
+                       alt="Москва">
+                
+              </a>
+              <div class="main-header-city__desc">
+                <a href="/" class="main-header-city__title"
+                   title="Справочник организаций Москвы">Справочник</a>
+                <span class="main-header-city__name js-city-trigger">
+                  <span class="main-header-city__name-inner">Москва</span>
+                </span>
+              </div>
+              <div class="main-header-city__kite">
+                
+              </div>
+            </div>
+          </div>
+          <nav class="main-header-top__search">
+            <div class="main-header-search" id="vue-header-search">
+              
+              
+              <form action="/search/" method="get" class="search-form">
+                <div class="search-form-input">
+                  <input type="text" class="search-form-input__control" id="searchInput" name="q" autocomplete="off">
+                  <span class="search-form-input__placeholder">Поиск по организациям или услугам</span>
+                  <span class="search-form-input__clear"></span>
+                </div>
+              </form>
+            </div>
+          </nav>
+          <div class="main-header-top__buttons js-header-buttons is-floating">
+            <span class="main-header-top__buttons-overlay"></span>
+            <div class="main-header-buttons">
+              <div class="main-header-buttons__item main-header-buttons__item--add">
+                <!--noindex-->
+                <div class="button-dropdown main-header-buttons__add js-header-button">
+                  <span class="button button--primary button--add button--fullwidth button--md">
+                    <span class="button__label">Добавить</span>
+                  </span>
+                  <div class="button-dropdown__kite">
+                    <ul class="menu button-dropdown__kite-obj">
+                      <li class="menu__item">
+                        <a href="/office/#/org-add" target="_blank" class="menu__link"
+                           title="Добавить организацию в справочник" rel="nofollow">Организацию</a>
+                      </li>
+                      
+                        <li class="menu__item">
+                          <a href="/cabinet/job/" target="_blank" class="menu__link" title="Добавить вакансию в справочник"
+                             rel="nofollow">Вакансию</a>
+                        </li>
+                      
+                    </ul>
+                  </div>
+                </div>
+                <!--/noindex-->
+              </div>
+              <div class="main-header-buttons__item">
+                <!--noindex-->
+                
+
+
+<div class="button-dropdown main-header-buttons__login js-header-button">
+  
+    <span class="button button--secondary button--md">Войти</span>
+    <div class="button-dropdown__kite">
+      <div class="login-options button-dropdown__kite-obj">
+        <ul class="login-options-menu">
+          <li class="login-options-menu__item">
+            <a href="/accounts/login/?next=/avtoservisy-avtotehcentry/" class="login-options-menu__link">Вход на сайт</a>
+          </li>
+          <li class="login-options-menu__item">
+            <a href="/accounts/signup/?next=/avtoservisy-avtotehcentry/" class="login-options-menu__link login-options-menu__link--invert">Регистрация</a>
+          </li>
+        </ul>
+        <ul class="login-options-social">
+
+
+
+
+
+
+          <li class="login-options-social__item">
+            <a href="/accounts/vk/login/?process=login&amp;next=%2Favtoservisy-avtotehcentry%2F" class="login-options-social__link login-options-social__link--vk">Вконтакте</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
+</div>
+                <!--/noindex-->
+              </div>
+            </div>
+          </div>
+          <span class="burger main-header-top__burger"></span>
+        </div>
+      </div>
+    </div>
+    <!-- end main-header-top -->
+    <!-- begin main-header-bottom -->
+    <div class="main-header-bottom">
+      <div class="container">
+        <div class="main-header-bottom__in">
+          <nav class="main-header__menu">
+            <ul class="main-header-menu">
+              <li class="main-header-menu__item">
+                <a href="/"
+                   class="main-header-menu__link is-active" title="Справочник">Справочник</a>
+              </li>
+              
+                <li class="main-header-menu__item">
+                  <a href="/job/"
+                     class="main-header-menu__link "
+                     title="Вакансии">Вакансии</a>
+                </li>
+              
+            </ul>
+          </nav>
+          <div class="main-header-bottom__right">
+            <!--noindex-->
+            <span class="main-header-bottom__meta">
+              
+                <b>1 212 703</b>
+                организации
+              
+            </span>
+            <!--/noindex-->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end main-header-bottom -->
+  </header>
+
+  <main class="main">
+    <div class="page">
+      <div class="container">
+
+
+        
+
+        
+          
+            <nav class="page__breadcrumbs">
+              <ul class="breadcrumbs-list">
+                
+                  
+                    <li class="breadcrumbs-list__item">
+                      <a href="/" title="Справочник"class="breadcrumbs-list__link">
+                        Справочник
+                        Москвы
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="breadcrumbs-list__item">
+                      <span class="breadcrumbs-list__link is-current">Автосервисы и автотехцентры</span>
+                    </li>
+                  
+                
+              </ul>
+            </nav>
+          
+        
+
+        
+  <div class="columns">
+    <div class="col-xl-6-8 col-lg-6-8">
+      
+        <!-- google_ad_section_start -->
+  <h1>Автосервисы и автотехцентры в Москве</h1>
+<!-- google_ad_section_end -->
+
+  <div class="lead lead--inline-list">
+     <ul> <li> Мы нашли для Вас 27475 автосервисов и автотехцентров в городе Москва;</li> <li> лучший помощник в выборе товаров и услуг на карте Москвы, схемы проезда, рейтинги и фото;</li> <li> прочитайте 1428 отзывов об автосервисах и автотехцентрах.</li> </ul>
+  </div>
+
+  <div class="tags-list m-16">
+      <div class="tags-list__item">
+        <a href="/zamena-antifriza/" class="tag tag--raised" title="Замена антифриза">Замена антифриза</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/zamena-bryzgovikov/" class="tag tag--raised" title="Замена брызговиков">Замена брызговиков</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/zamena-vozdushnogo-filtra/" class="tag tag--raised" title="Замена воздушного фильтра">Замена воздушного фильтра</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/zamena-salonnogo-filtra/" class="tag tag--raised" title="Замена салонного фильтра">Замена салонного фильтра</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/zamena-bachka-stekloomyvatelia/" class="tag tag--raised" title="Замена бачка стеклоомывателя">Замена бачка стеклоомывателя</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/zamena-podkrylka/" class="tag tag--raised" title="Замена подкрылка">Замена подкрылка</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/ustanovka-i-remont-dopolnitelnogo-oborudovaniia/" class="tag tag--raised" title="Установка и ремонт дополнительного оборудования">Установка и ремонт дополнительного оборудования</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/ustanovka-avtomobilnoi-ratsii/" class="tag tag--raised" title="Установка автомобильной рации">Установка автомобильной рации</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/ustanovka-farkopa/" class="tag tag--raised" title="Установка фаркопа">Установка фаркопа</a>
+      </div>
+      <div class="tags-list__item">
+        <a href="/ustanovka-zashchity-kartera/" class="tag tag--raised" title="Установка защиты картера">Установка защиты картера</a>
+      </div>
+  </div>
+
+
+  <div class="widgets m-16">
+    <div class="widgets__filters">
+      <div class="widgets-filters" id="vue-category-filters">
+        <div class="widgets-filters__left">
+          <span class="widgets-filters__title">Фильтр:</span>
+            <div class="dropdown dropdown--fullwidth"
+                 style="margin-right: 14px"
+                 data-filter-name="Районы"
+                 data-category-slug="avtoservisy-avtotehcentry"
+                 data-geo-type="district"
+            >
+              <span class="dropdown__overlay js-dropdown"></span>
+              <div class="dropdown__in">
+                <span class="dropdown__control js-dropdown">Районы</span>
+              </div>
+            </div>
+            <div class="dropdown dropdown--fullwidth">
+              <span class="dropdown__overlay js-dropdown"></span>
+              <div class="dropdown__in">
+                <span class="dropdown__control js-dropdown">Метро</span>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="interesting interesting--center m-t-16 d-block">
+      <!-- Yandex.RTB R-A-96375-1 -->
+    <div id="yandex_rtb_R-A-96375-1"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-1",
+          "renderTo": "yandex_rtb_R-A-96375-1"
+        })
+      });
+    </script>
+
+</div>
+
+<div class="organization-category">
+  <div class="pseudo-map">
+    <div class="pseudo-map__frame" id="js-map-list-button"
+         data-center='{ "type": "Point", "coordinates": [ 37.617635, 55.755814 ] }'
+         data-zoom="12"
+         data-category="24"
+    >
+      <span class="pseudo-map__bg" style="background-image: url('https://static-maps.yandex.ru/1.x/?ll=37.617634999999986,55.755813999999965&l=map&z=12&size=650,128&scale=1.0&lang=ru_RU');"></span>
+      <span class="pseudo-map__button">Показать карту</span>
+    </div>
+  </div>
+
+  <div class="interesting interesting--center m-t-28 d-block">
+        <!-- Yandex.RTB R-A-96375-2 -->
+    <div id="yandex_rtb_R-A-96375-2"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-2",
+          "renderTo": "yandex_rtb_R-A-96375-2"
+        })
+      });
+    </script>
+
+  </div>
+
+
+  <div class="organization-category__widgets">
+    <div class="widgets">
+        <div class="widgets__list">
+          <div class="widgets-list">
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/olimp-avto-na-volgogradke.htm"
+              title="Показать Мос-олимп на карте"
+              class="org-widget-header__title-link">Мос-олимп</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автосервисы,                 Обработка стекол - антидождь            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Ташкентская ул., 28, стр. 1, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 514-38-22</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9vbGltcC1hdnRvLm9iaXoucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    75 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Чинили авто, очень круто получилось, всё сделали быстро и качествено
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehnicheskij-tsentr-arkservice.htm"
+              title="Показать Арк Сервис на карте"
+              class="org-widget-header__title-link">Арк Сервис</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Сервисы по ремонту автомобилей,                 Диагностика автомобиля            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Азовская ул., 28Б, стр. 4, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 720-35-13</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly93d3cuYXJrc2VydmljZS5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    7 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  В сервисе заменял цепь на мерседесе, остался доволен, ребята сделали быстро. Спасибо.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/remont-dvigatelei/dizel-fors---lider-v-sfere-prodazhi-i-remonta-forsunok-caterpillar-perkins-heui-i-dr.htm"
+              title="Показать Дизель-форс на карте"
+              class="org-widget-header__title-link">Дизель-форс</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автомастерские,                 Диагностика авто            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Волгоградский просп., 128, корп. 5
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 322-91-11, +7 (7172) 78-81-60</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–18:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2RpZXNlbGZvcnMucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    5 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Да, хорошие ребята, делают на профессиональном уровне. На пассате увеличивался уровень масла-думал хана движку, оказалось с форсунками проблема. Сняли, поремонтировали …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehtsentr-avtopilot5.htm"
+              title="Показать Автопилот на карте"
+              class="org-widget-header__title-link">Автопилот</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Станции технического обслуживания автомобилей,                 Автодиагностика            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Речников, 19
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-20-45</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/Rh9C10YHRgtC90YvQuS3QsNCy0YLQvtGB0LXRgNCy0LjRgS7RgNGELw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    6 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Все понравилось, персонал хороший.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/zamena-akpp/kia-remont-lider.htm"
+              title="Показать Киа Ремонт Лидер на карте"
+              class="org-widget-header__title-link">Киа Ремонт Лидер</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автотехцентры,                 Проверка автомобиля            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Можайское ш., 159 к 9, Москва, Россия, 121374
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 649-82-18</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">вс 10:00-18:00; пн-сб 10:00-20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9raWEucmVtb250LWxpZGVyLnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+                  <div class="interesting interesting--center m-t-20 d-block">
+                        <!-- Yandex.RTB R-A-96375-3 -->
+    <div id="yandex_rtb_R-A-96375-3"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-3",
+          "renderTo": "yandex_rtb_R-A-96375-3"
+        })
+      });
+    </script>
+
+                  </div>
+                </div>
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/ajc-motors.htm"
+              title="Показать Эйджиси Моторс на карте"
+              class="org-widget-header__title-link">Эйджиси Моторс</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                СТО,                 Компьютерная диагностика автомобиля            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Новоостаповская ул., 6А, стр. 4, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 414-46-28</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–19:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2FqYy1tb3RvcnMucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/fordtranzitservis.htm"
+              title="Показать Форд Транзит Сервис на карте"
+              class="org-widget-header__title-link">Форд Транзит Сервис</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автосервисы и автотехцентры,                 Диагностика автоэлектрики            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Рязанский просп., 4, стр. 1, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (905) 767-77-11, +7 (905) 769-77-11</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–19:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9mb3JkdHJhbnNpdDEucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    2 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Время сдачи авто было оговорено заранее и соблюдено. Ремонт провели как полагается. Запчасти приобретал также через сервис, по цене вышло …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/s-avtomasterru.htm"
+              title="Показать 1avto-s на карте"
+              class="org-widget-header__title-link">1avto-s</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автосервисы,                 Компьютерная диагностика авто            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Дубнинская ул., 75, стр. 15, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (926) 696-49-44</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-сб 10:00–20:00; вс 10:00–15:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovLzFhdnRvLXMucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehtsentr-avtopilot-ploschad-ilicha.htm"
+              title="Показать Автопилот на карте"
+              class="org-widget-header__title-link">Автопилот</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Сервисы по ремонту автомобилей,                 Услуги автоэлектрика            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Смирновская ул., 2, стр. 1
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-20-45</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/Rh9C10YHRgtC90YvQuS3QsNCy0YLQvtGB0LXRgNCy0LjRgS7RgNGELw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    3 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Хороший сервис, всё официально, недорого, с гарантией. Базовые запчасти и расходники в наличии, отдельно покупать не надо. В этом сервисе …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/a1-motors1.htm"
+              title="Показать A1 моторс на карте"
+              class="org-widget-header__title-link">A1 моторс</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автомастерские,                 Выездная диагностика автомобиля            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              1-я Дубровская ул., 13А, стр. 4, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-15-38, +7 (925) 001-08-57, +7 (499) 110-42-89, +7 (499) 110-42-87</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2ExLW1vdG9ycy5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    4 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  очень дружелюбные и хорошие мастера работают в этом сервисе.с прошлого года ремонтируюсь у них
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/ruskomavto1.htm"
+              title="Показать РусКомАвто на карте"
+              class="org-widget-header__title-link">РусКомАвто</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Станции технического обслуживания автомобилей,                 Выездная проверка автомобиля            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Подольских Курсантов, 32, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (903) 163-70-00, +7 (968) 320-15-97, +7 (903) 242-13-42, +7 (966) 030-25-30</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–18:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9ya2Euc3Uv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    1 отзыв
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Окраска кабины. Сделали качественно.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtorazborki/avtorazborka-shop.htm"
+              title="Показать Европа-Авто на карте"
+              class="org-widget-header__title-link">Европа-Авто</a>
+          </h3>
+            <span class="org-widget-header__meta">
+                Автотехцентры,                 Автодиагностика электрики            </span>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              6-я Радиальная ул., 30, стр. 22
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">8 (800) 550-70-64</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 10:00–20:00; сб,вс 10:00–18:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9hdXRvcmF6Ym9ya2Euc2hvcC8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    5 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  У меня старенький Volkswagen Transporter T5. Бывает нужные детали найти сложновато и просят за них не мало. А мне эту …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+                  <div class="interesting interesting--center m-t-20 d-block">
+                        <!-- Yandex.RTB R-A-96375-4 -->
+    <div id="yandex_rtb_R-A-96375-4"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-4",
+          "renderTo": "yandex_rtb_R-A-96375-4"
+        })
+      });
+    </script>
+
+                  </div>
+                </div>
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehtsentr-avtopilot4.htm"
+              title="Показать Автопилот на карте"
+              class="org-widget-header__title-link">Автопилот</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              1-й пр. Перова Поля, 3, стр. 14, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-20-45</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/Rh9C10YHRgtC90YvQuS3QsNCy0YLQvtGB0LXRgNCy0LjRgS7RgNGELw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    4 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Был первый раз полгода назад, масло менял, но попал на стажера, который мне все маслом залил, был не очень доволен. …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/crystalcity.htm"
+              title="Показать Crystal City на карте"
+              class="org-widget-header__title-link">Crystal City</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Пресненская наб., 8, стр. 1
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 644-29-29, +7 (916) 648-80-88</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–00:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9jcnlzdGFsY2l0eS5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    3 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Уютно и быстро. Качественная работа.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/h2-ochistka-dvigatelej-vodorodom.htm"
+              title="Показать H2-auto на карте"
+              class="org-widget-header__title-link">H2-auto</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Полярная ул., 39А, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtozapchasti/internet-magazin-avtozapchastej-automd.htm"
+              title="Показать АмдЗап на карте"
+              class="org-widget-header__title-link">АмдЗап</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Красного Маяка, 16, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 127-61-18</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9hbWR6YXAucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehtsentr-avtopilot-mitino.htm"
+              title="Показать Автопилот на карте"
+              class="org-widget-header__title-link">Автопилот</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Митинская ул., 15, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-20-45</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/Rh9C10YHRgtC90YvQuS3QsNCy0YLQvtGB0LXRgNCy0LjRgS7RgNGELw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    1 отзыв
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Большое спасибо коллективу Автопилота и персонально электрику Юрию. Очень рекомендую если у вас проблемы в проводке. Понравилось, что вместо томительного …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/avtoyuveliryi.htm"
+              title="Показать АвтоЮвелиры на карте"
+              class="org-widget-header__title-link">АвтоЮвелиры</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Каширское ш., 41, стр. 2
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (905) 712-80-76, +7 (495) 799-20-34</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/QsNCy0YLQvtGO0LLQtdC70LjRgNGLLtGA0YQv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/zamena-akpp/zf-center1.htm"
+              title="Показать ZFcenter на карте"
+              class="org-widget-header__title-link">ZFcenter</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Алтуфьевское ш., 31, стр. 1
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (926) 209-26-79, +7 (495) 664-41-00</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:30–18:30; сб 10:00–16:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly96ZmNlbnRlci5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/cpd-service.htm"
+              title="Показать Cpd-service на карте"
+              class="org-widget-header__title-link">Cpd-service</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Ивана Франко, 4, корп. 16, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (926) 528-09-09</dd>
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-land-rover/rr-master-2.htm"
+              title="Показать Рр-мастер на карте"
+              class="org-widget-header__title-link">Рр-мастер</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Свободы, 35, стр. 17, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (916) 595-40-40, +7 (916) 596-40-40</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9yci1tYXN0ZXIucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/mobiskar.htm"
+              title="Показать Мобискар на карте"
+              class="org-widget-header__title-link">Мобискар</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Вавилова, 13А, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 189-66-79</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">вт-сб 09:00–18:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9tb2Jpc2Nhci5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoekspertiza-otsenka-avtomobilei/avtochekap.htm"
+              title="Показать АвтоЧекап на карте"
+              class="org-widget-header__title-link">АвтоЧекап</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Ярославская ул., 8, корп. 4
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 340-51-03</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-сб 09:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2F1dG9jaGVja3VwLnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/garazh-na-chas-gruzivezu.htm"
+              title="Показать ГрузиВезу на карте"
+              class="org-widget-header__title-link">ГрузиВезу</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Денисьевский пр., 17, Дзержинский
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (926) 816-90-13, +7 (495) 979-90-13</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9ncnV6aXZlenUucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtotiuning/mirax-detailing-center.htm"
+              title="Показать Mirax на карте"
+              class="org-widget-header__title-link">Mirax</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Маломосковская ул., 22, стр. 11
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 877-37-22</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00-20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9jZW50ZXJtaXJheC5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoatele/avto-plyus22.htm"
+              title="Показать АвтоПлюс на карте"
+              class="org-widget-header__title-link">АвтоПлюс</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Верейская ул., 29, стр. 2, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (901) 519-68-90, +7 (926) 456-60-10, +7 (495) 979-68-90</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00–19:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2dvc3R0b25pcm92a2EucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtosalony/uzdeu-motors.htm"
+              title="Показать Интер-авто на карте"
+              class="org-widget-header__title-link">Интер-авто</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Молодогвардейская ул., 61, стр. 4
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 775-12-77</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2F1dG9jZW50ZXIubW9zY293Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/avtozapadmotors.htm"
+              title="Показать Авто Запад Моторс на карте"
+              class="org-widget-header__title-link">Авто Запад Моторс</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ул. Мичуринский Проспект, Олимпийская Деревня, 4, корп. 32, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 340-05-25, +7 (916) 230-66-76, +7 (985) 420-86-58</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 10:00–20:00; сб 10:00–16:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2F6bXNlcnZpY2UucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    10 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Обращалась в сервис для удаления царапин на моей Toyota Rav 4. Ребята здесь работают ответственные и грамотные: все сделали оперативно …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/nikrasoff.htm"
+              title="Показать Никрасофф на карте"
+              class="org-widget-header__title-link">Никрасофф</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Куликовская ул., 12, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 778-46-57, +7 (919) 410-70-01, +7 (916) 588-29-57, +7 (985) 485-78-86</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 10:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL25pY2tyYXNvZmYucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tehtsentr-avtopilot-borisovo-marino.htm"
+              title="Показать Автопилот на карте"
+              class="org-widget-header__title-link">Автопилот</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Бесединское ш., 9, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 120-20-45</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly/Rh9C10YHRgtC90YvQuS3QsNCy0YLQvtGB0LXRgNCy0LjRgS7RgNGELw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    3 отзыва
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Буду краток: никаких недоразумений не возникло, заявленные в рекламе обещания реализованы, цена устроила.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtozapchasti/startery-generatory.htm"
+              title="Показать Стартеры, генераторы на карте"
+              class="org-widget-header__title-link">Стартеры, генераторы</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Щёлковское ш., 77, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (968) 067-33-34</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–19:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL2dlbi1zdGFyLnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/audi-tsentr-varshavka2.htm"
+              title="Показать Автодом Ауди Варшавка на карте"
+              class="org-widget-header__title-link">Автодом Ауди Варшавка</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Варшавское ш., 91А, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 445-30-67</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 07:30–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9hdWRpLXdhcnNoYXZrYS5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    1 отзыв
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Хороший диллер под стать мотоциклам. Приезжал в сервис по соседству, пока ждал, побродил по мотосалону Ducati. Впечатляет, конечно. Неплохой транспорт …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/akpp-tsentr-izmajlovo.htm"
+              title="Показать АКПП-Центр на карте"
+              class="org-widget-header__title-link">АКПП-Центр</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              1-я ул. Измайловского Зверинца, 8, Москва, Россия
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 113-38-36</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9ha3BwY2VudGVyLmNvbS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    111 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Все быстро профессионально и качественно. Впервые я обратился в Измайлово центр из-за течи масла из АКПП. Остался полностью доволен. Специалисты …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtootopiteli/doktor-dzhip.htm"
+              title="Показать Доктор Джип на карте"
+              class="org-widget-header__title-link">Доктор Джип</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              ш. Энтузиастов, 2, стр. 38А, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (925) 772-33-41, +7 (495) 772-33-41</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">вт-вс 10:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly93d3cuZHJqZWVwLnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    16 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Сервису ставлю 5-ку. Делал диагностику ходовой части, всё сделали быстро, дали свои рекомендации.
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/org/avtoservis3310.htm"
+              title="Показать Автосервис33 на карте"
+              class="org-widget-header__title-link">Автосервис33</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Варшавское ш., 33, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 295-17-05, +7 (926) 512-68-22</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-сб 10:00–20:50</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly8zM3NlcnZpY2UucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    21 отзыв
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Обслуживаю свою ауди исключительно в Автосервисе 33! Все началось еще 3 года назад, с ремонта двигателя, так и познакомился с …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtotekhpomoshch/grandavtoservis.htm"
+              title="Показать ИП Верещагин Игорь Михайлович на карте"
+              class="org-widget-header__title-link">ИП Верещагин Игорь Михайлович</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              2-й Кожевнический пер., 12с10, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (919) 993-25-82</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, круглосуточно</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9ncmFuZGF2dG9zZXJ2aXMuY2xpZW50cy5zaXRlLw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/viktorymotor.htm"
+              title="Показать Viktorymotor на карте"
+              class="org-widget-header__title-link">Viktorymotor</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Москва, Южный административный округ, район Чертаново Северное, микрорайон Северное Чертаново, 2, корп. 206
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (901) 147-90-38, +7 (966) 009-31-79</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly93d3cudmlrdG9yeW1vdG9yLmNvbS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    15 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Очень хороший сервис. Попали в яму, нашли повреждения в подвеске. Ребята все вежливые и компетентные, хорошая зона ожидания. Так держать!
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtomobilnye-diski-i-shiny/shino-boks.htm"
+              title="Показать Шино-Бокс на карте"
+              class="org-widget-header__title-link">Шино-Бокс</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              2-й Хорошёвский пр., 7, стр. 1Б, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 414-34-66</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–22:00; сб,вс 10:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9zaGluby1ib3gucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    10 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Насобирал я как-то денег на резину Мишлен. Прослужила она мне ровно сезон. Я был в шоке. Думал, купил подделку, но …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/zamena-akpp/bogatyr-servis.htm"
+              title="Показать ИП Иванцов Василий Николаевич на карте"
+              class="org-widget-header__title-link">ИП Иванцов Василий Николаевич</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              б-р Генерала Карбышева, 8 строение 4, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (915) 243-25-57</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, круглосуточно</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9ib2dhdHlyLXNlcnZpcy1idWx2YXItZ2VuZXJhbGEta2FyYnlzaGV2YS5jbGllbnRzLnNpdGUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoekspertiza-otsenka-avtomobilei/iv-avto.htm"
+              title="Показать Ив-Авто на карте"
+              class="org-widget-header__title-link">Ив-Авто</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Варшавское ш., 94, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (926) 400-73-00</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 10:00–22:00; сб,вс 10:00–21:00</dd>
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    7 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Иван Александрович, Вы как всегда на высоте ✊🏻✊🏻 Учитывая идиотичность и каламбурность текущего автомобильного рынка, хоть мультик рисуй, как вы …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/ustanovka-deflektorov/kutuzovv-1.htm"
+              title="Показать Кутузовв на карте"
+              class="org-widget-header__title-link">Кутузовв</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Краснобогатырская ул., 89, стр. 1, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 325-62-97, +7 (993) 894-80-55</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9rdXR1em92di5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtosalony/hende-komtrans6.htm"
+              title="Показать ПТЦ КомТранс Юг на карте"
+              class="org-widget-header__title-link">ПТЦ КомТранс Юг</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Дорожная ул., 3, корп. 20, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 559-99-09, +7 (499) 559-99-10</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9jdHVnLnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/zamena-avtokonditsionera/fps-service.htm"
+              title="Показать Fps Service на карте"
+              class="org-widget-header__title-link">Fps Service</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              2-й Хорошёвский пр., 7, стр. 20
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (965) 435-95-95</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-сб 10:00–22:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9mcHMtc2VydmljZS5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+          <div class="org-widget__feedback">
+            <div class="org-widget-feedback">
+                <div class="org-widget-feedback__rate ">
+                  <div class="rating ">
+                    <ul class='rating-stars'><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li><li class='rating-stars__item rating-stars__item--active'></li></ul>
+                  </div>
+                  <span class="org-widget-feedback__rate-count">
+                    9 отзывов
+                  </span>
+                </div>
+              <div class="org-widget-feedback__comment">
+                <p>
+                  Обращался уже несколько раз, ребята всегда подскажут, что выгоднее и лучше сделать. Расположение автосервиса очень удобное, мастера работу выполняют хорошо. …
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtootopiteli/spektr-avto-5.htm"
+              title="Показать ИП Ковалев Юрий Вячеславович на карте"
+              class="org-widget-header__title-link">ИП Ковалев Юрий Вячеславович</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Малая Филёвская ул., 18к3, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (925) 168-46-13</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, круглосуточно</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9tc2suc3ByYXZrZXIucnUvYXZ0b290b3BpdGVsaS9zcGVrdHItYXZ0by01Lmh0bQ=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/tokio-servis-na-dmitrovke.htm"
+              title="Показать Токио Сервис на карте"
+              class="org-widget-header__title-link">Токио Сервис</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Лобненская ул., 17, стр. 2, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (499) 455-18-21</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 08:00–22:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly93d3cudG9reW9nYXJhZ2UucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/gazovyie-ballonyi/gazpart-95.htm"
+              title="Показать Газпарт на карте"
+              class="org-widget-header__title-link">Газпарт</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Ильменский пр., 9, стр. 1
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 502-94-57, 8 (800) 775-25-23, +7 (968) 070-22-90</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-чт 08:30–17:00; пт 08:30–16:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL3d3dy5nYXNwYXJ0LnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/polomoknet1.htm"
+              title="Показать ПоломокНет автосервис на карте"
+              class="org-widget-header__title-link">ПоломокНет автосервис</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Потешная ул., 6/2с18, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 966-12-41, +7 (968) 674-40-25</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-пт 09:00–21:00; сб,вс 09:00–19:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9wb2xvbW9rbmV0LnJ1Lw=="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/remont-mkppru1.htm"
+              title="Показать Remont-MKPP.ru на карте"
+              class="org-widget-header__title-link">Remont-MKPP.ru</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Ильменский пр., 9, стр. 2, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (909) 624-64-64, +7 (495) 979-10-47</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly9yZW1vbnQtbWtwcC5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoklubyi/nnservice2.htm"
+              title="Показать NNService на карте"
+              class="org-widget-header__title-link">NNService</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Полярная ул., 31В, стр. 11, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 220-35-18, +7 (999) 979-95-38, +7 (985) 220-35-18</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">пн-сб 10:00–20:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cDovL25pc3NhbnN0by5ydS8="></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+                <div class="widgets-list__item">
+    <div class="org-widget ">
+      <div class="org-widget__in">
+        <div class="org-widget-header">
+          <h3 class="org-widget-header__title">
+            <a
+                href="/avtoservisy-avtotehcentry/prestizh-avto6.htm"
+              title="Показать Pandora Престиж-Авто на карте"
+              class="org-widget-header__title-link">Pandora Престиж-Авто</a>
+          </h3>
+            <span class="org-widget-header__meta org-widget-header__meta--location">
+              Полковая ул., 14, корп. 1, Москва
+            </span>
+        </div>
+        <div class="org-widget__spec">
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Телефон</span></dt>
+              <dd class="spec__value">+7 (495) 984-87-08, +7 (495) 411-28-88</dd>
+            </dl>
+            <dl class="spec">
+              <dt class="spec__index"><span class="spec__index-inner">Часы работы</span></dt>
+              <dd class="spec__value">ежедневно, 09:00–21:00</dd>
+            </dl>
+            <dl class="spec">
+              <!--noindex-->
+              <dt class="spec__index"><span class="spec__index-inner">Сайт</span></dt>
+              <dd class="spec__value">
+                <span class="js-pseudo-link" data-url="aHR0cHM6Ly93d3cucHJlc3RpZ2UtYXV0by1zdHVkaW8ucnUv"></span>              </dd>
+              <!--/noindex-->
+            </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+
+
+
+      <div class="widgets__pagination">
+          <nav class="pagination">
+    <div class="pagination__main">
+      <div class="pagination__list">
+          <a href="#"
+           class="pagination__arrow pagination__arrow--prev is-disabled">Предыдущая</a>
+        <ul class="pagination-list">
+            <li class="pagination-list__item">
+              <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/" class="pagination-list__link is-active">1</a>
+            </li>
+            <li class="pagination-list__item">
+              <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/?page=2" class="pagination-list__link ">2</a>
+            </li>
+            <li class="pagination-list__item">
+              <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/?page=3" class="pagination-list__link ">3</a>
+            </li>
+            <li class="pagination-list__item">
+              <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/?page=4" class="pagination-list__link ">4</a>
+            </li>
+            <li class="pagination-list__item">
+              <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/?page=5" class="pagination-list__link ">5</a>
+            </li>
+              <li class="pagination-list__item pagination-list__item--dots">
+                <a href="#" class="pagination-list__link pagination-list__link--dots">...</a>
+              </li>
+        </ul>
+
+          <a href="https://msk.spravker.ru/avtoservisy-avtotehcentry/?page=2"
+           class="pagination__arrow pagination__arrow--next">Следующая</a>
+      </div>    </div>
+  </nav>
+
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var category = {
+      "slug": "avtoservisy-avtotehcentry",
+      "availableGeo": {
+          "district": true,
+          "subway": true
+      }
+  }
+</script>
+<script type="text/javascript">
+  window.yaParams.PageType = {
+      "OrgsCategory": {
+          "geo": "all"
+      }
+  };
+  window.yaParams.Labels = ['Автосервисы'];
+</script>
+
+<div class="m-t-20">
+      <!-- Yandex.RTB R-A-96375-10 -->
+    <div id="yandex_rtb_R-A-96375-10"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-10",
+          "renderTo": "yandex_rtb_R-A-96375-10"
+,"type": "feed"        })
+      });
+    </script>
+
+</div>
+      
+    </div>
+    <div class="col-xl-2-8 col-lg-2-8 d-md-none d-sm-none">
+      <div class="page__sidebar">
+        <!-- begin sidebar -->
+        <div class="sidebar">
+          
+<div class="interesting interesting--center">
+      <!-- Yandex.RTB R-A-96375-8 -->
+    <div id="yandex_rtb_R-A-96375-8"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-8",
+          "renderTo": "yandex_rtb_R-A-96375-8"
+        })
+      });
+    </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="sidebar__footer">
+  <!--noindex-->
+  <a href="https://spravker.ru/info/vip-status/" rel="nofollow" class="icon-with-text icon-with-text--arrow">
+    <span class="icon-with-text__icon icon-with-text__icon--shout"></span>
+    <span class="icon-with-text__text">Реклама на сайте</span>
+  </a>
+  <!--/noindex-->
+</div>
+        </div>
+        <!-- end sidebar -->
+      </div>
+    </div>
+  </div>
+
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer" id="footer">
+  <!--noindex-->
+  <div class="container">
+    <div class="footer-top">
+      <span class="footer-top__city">
+        Если у Вас появились вопросы, пишите нам на
+        <a href="mailto:support@spravker.ru" title="Написать письмо">support@spravker.ru</a>
+      </span>
+      <ul class="footer-menu">
+        <li class="footer-menu__item">
+          <a href="https://spravker.ru/info/vip-status/" rel="nofollow" class="footer-menu__link">Реклама</a>
+        </li>
+        <li class="footer-menu__item">
+          <a href="mailto:support@spravker.ru" rel="nofollow" class="footer-menu__link">Обратная связь</a>
+        </li>
+        <li class="footer-menu__item">
+          <a href="https://spravker.ru/info/faq" rel="nofollow" class="footer-menu__link">Вопрос-ответ</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footer-bottom">
+      <ul class="footer-meta">
+        <li class="footer-meta__item">&copy; <a href="https://spravker.ru" rel="nofollow">Spravker.ru</a> 2011—2020,
+          городской он-лайн справочник.
+        </li>
+        <li class="footer-meta__item">
+          
+        </li>
+        <li class="footer-meta__item"><a href="https://spravker.ru/info/policy/" rel="nofollow" target="_blank" class="footer-meta__link">Политика кондефициальности</a></li>
+      </ul>
+    </div>
+  </div>
+  <span id="moveTop" class="footer__move-top"></span>
+  <!--/noindex-->
+</footer>
+</div>
+
+<script src="https://s.spravker.ru/static/webpack/front-new.0fc9aefed5a2.js" type="text/javascript" defer></script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(90642284, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/90642284" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<script type="text/javascript">
+    if(ym) {
+        ym(90642284, 'params', window.yaParams || {});
+    } else console.warn('Yandex.Metrika is not loaded');
+</script>
+
+<script type="text/javascript">
+  var page_type = window.yaParams.PageType || '';
+  if(page_type === 'OrgsOrg'){
+      window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+          "blockId": "R-A-96375-9",
+          "type": "fullscreen",
+          "platform": "touch"
+        })
+      })
+  }
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-27109464-1']);
+    _gaq.push(['_setDomainName', 'spravker.ru']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+</body>
+</html>
