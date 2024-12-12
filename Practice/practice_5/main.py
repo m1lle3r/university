@@ -3,7 +3,6 @@ from words import *
 
 print('Это Поле Чудес! Удачной игры!')
 
-
 def start_game():
     word = rand_word()
     guessed_letters = set()
@@ -12,11 +11,11 @@ def start_game():
         'Выберите уровень сложности \n1. Лёгкий уровень: 7 жизней\n2. Средний уровень: 5 жизней.\n3. Сложный уровень: 3 жизни.\n(Напишите 1, 2 или 3) \nВаш выбор: ')
 
     difficult = input()
-    while not difficult.isdigit():
-        print('Введите число! Попробуйте еще раз!')
+    while not difficult.isdigit() or difficult not in ['1', '2', '3']:
+        print('Введите число 1, 2 или 3! Попробуйте еще раз!')
         difficult = input()
 
-    attempts = {'1': 7, '2': 5, '3': 3}.get(difficult, 3)
+    attempts = {'1': 7, '2': 5, '3': 3}[difficult]
 
     while attempts > 0:
         print(f'Слово: {coded(word, guessed_letters)}')
@@ -32,7 +31,7 @@ def start_game():
             print('Вы уже использовали эту букву!')
             continue
 
-        if letter_choice == word or all(letter in guessed_letters for letter in word):
+        if letter_choice == word:
             print(f'\nПоздравляем! Вы угадали слово {word}! Приз в студию!')
             record += 1
             save_record(record)
@@ -46,21 +45,22 @@ def start_game():
             if user_choice == 'да':
                 word = rand_word()
                 guessed_letters.clear()
-                attempts = {'1': 7, '2': 5, '3': 3}.get(difficult, 3)
+                attempts = {'1': 7, '2': 5, '3': 3}[difficult]
             else:
                 break
-
-        guessed_letters.add(letter_choice)
-
-        if letter_choice in word:
-            print(f'Вы угадали букву: {letter_choice}! Поздравляем!')
+        elif len(letter_choice) == 1:
+            guessed_letters.add(letter_choice)
+            if letter_choice in word:
+                print(f'Вы угадали букву: {letter_choice}! Поздравляем!')
+            else:
+                print('Неправильно! Попробуйте еще раз!')
+                attempts -= 1
         else:
             print('Неправильно! Попробуйте еще раз!')
             attempts -= 1
 
     else:
         print(f'\nУ вас не осталось попыток. Загаданное слово было: {word}')
-
 
 def save_record(record):
     try:
@@ -73,6 +73,5 @@ def save_record(record):
         with open('record.txt', mode='w', encoding='utf8') as file:
             file.write(str(record))
         print('Ваш рекорд сохранён/обновлён!')
-
 
 start_game()
