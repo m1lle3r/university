@@ -6,7 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="7d0c88a4-2732-48a2-aa2d-183c41d4d2af" name="Changes" comment="add new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/practice_7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/asdvzx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/main.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/warn-main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/xref-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/dist/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/practice_7/main.spec" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +68,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="university" />
       <option name="ENV_FILES" value="" />
@@ -148,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
@@ -234,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735200716134</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add new">
+      <option name="closed" value="true" />
+      <created>1735202006096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735202006096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
