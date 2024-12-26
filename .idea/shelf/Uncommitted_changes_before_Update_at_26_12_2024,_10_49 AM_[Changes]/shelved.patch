@@ -1,0 +1,274 @@
+Index: Practice/practice_5/game_components/lives.py
+===================================================================
+diff --git a/Practice/practice_5/game_components/lives.py b/Practice/practice_5/game_components/lives.py
+deleted file mode 100644
+--- a/Practice/practice_5/game_components/lives.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,2 +0,0 @@
+-def live(attempts):
+-    return '🎔'*attempts
+\ No newline at end of file
+Index: Practice/practice_5/game_components/__init__.py
+===================================================================
+diff --git a/Practice/practice_5/game_components/__init__.py b/Practice/practice_5/game_components/__init__.py
+deleted file mode 100644
+--- a/Practice/practice_5/game_components/__init__.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,2 +0,0 @@
+-from .coded_word import coded
+-from .lives import live
+\ No newline at end of file
+Index: Practice/practice_5/game_components/coded_word.py
+===================================================================
+diff --git a/Practice/practice_5/game_components/coded_word.py b/Practice/practice_5/game_components/coded_word.py
+deleted file mode 100644
+--- a/Practice/practice_5/game_components/coded_word.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,3 +0,0 @@
+-def coded(word, guessed_letters):
+-    displayed = ' '.join(letter if letter in guessed_letters else '■' for letter in word)
+-    return displayed
+\ No newline at end of file
+Index: Practice/practice_5/main.py
+===================================================================
+diff --git a/Practice/practice_5/main.py b/Practice/practice_5/main.py
+deleted file mode 100644
+--- a/Practice/practice_5/main.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,77 +0,0 @@
+-from game_components import *
+-from words import *
+-
+-print('Это Поле Чудес! Удачной игры!')
+-
+-def start_game():
+-    word = rand_word()
+-    guessed_letters = set()
+-    record = 0
+-    print(
+-        'Выберите уровень сложности \n1. Лёгкий уровень: 7 жизней\n2. Средний уровень: 5 жизней.\n3. Сложный уровень: 3 жизни.\n(Напишите 1, 2 или 3) \nВаш выбор: ')
+-
+-    difficult = input()
+-    while not difficult.isdigit() or difficult not in ['1', '2', '3']:
+-        print('Введите число 1, 2 или 3! Попробуйте еще раз!')
+-        difficult = input()
+-
+-    attempts = {'1': 7, '2': 5, '3': 3}[difficult]
+-
+-    while attempts > 0:
+-        print(f'Слово: {coded(word, guessed_letters)}')
+-        print(f'Количество жизней: {live(attempts)}')
+-
+-        letter_choice = input('Введите букву или слово целиком: ').lower()
+-
+-        if not letter_choice.isalpha():
+-            print('Пожалуйста, введите букву или слово целиком!')
+-            continue
+-
+-        if letter_choice in guessed_letters:
+-            print('Вы уже использовали эту букву!')
+-            continue
+-
+-        if letter_choice == word:
+-            print(f'\nПоздравляем! Вы угадали слово {word}! Приз в студию!')
+-            record += 1
+-            save_record(record)
+-
+-            user_choice = input(
+-                f'Ваш рекорд: {record}! \nЖелаете ли вы пойти дальше? \n(Напишите Да или Нет) \nВаш выбор: ').lower()
+-            while user_choice not in ['да', 'нет']:
+-                print('Введите Да или Нет! Попробуйте еще раз!')
+-                user_choice = input('Ваш выбор: ').lower()
+-
+-            if user_choice == 'да':
+-                word = rand_word()
+-                guessed_letters.clear()
+-                attempts = {'1': 7, '2': 5, '3': 3}[difficult]
+-            else:
+-                break
+-        elif len(letter_choice) == 1:
+-            guessed_letters.add(letter_choice)
+-            if letter_choice in word:
+-                print(f'Вы угадали букву: {letter_choice}! Поздравляем!')
+-            else:
+-                print('Неправильно! Попробуйте еще раз!')
+-                attempts -= 1
+-        else:
+-            print('Неправильно! Попробуйте еще раз!')
+-            attempts -= 1
+-
+-    else:
+-        print(f'\nУ вас не осталось попыток. Загаданное слово было: {word}')
+-
+-def save_record(record):
+-    try:
+-        with open('record.txt', mode='r', encoding='utf8') as file:
+-            current_record = int(file.read().strip())
+-    except (FileNotFoundError, ValueError):
+-        current_record = 0
+-
+-    if record > current_record:
+-        with open('record.txt', mode='w', encoding='utf8') as file:
+-            file.write(str(record))
+-        print('Ваш рекорд сохранён/обновлён!')
+-
+-start_game()
+Index: Practice/practice_5/words/random_word.py
+===================================================================
+diff --git a/Practice/practice_5/words/random_word.py b/Practice/practice_5/words/random_word.py
+deleted file mode 100644
+--- a/Practice/practice_5/words/random_word.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,7 +0,0 @@
+-import random
+-
+-with open('word list.txt', encoding='utf-8') as file:
+-    words = file.read().split(' ')
+-
+-def rand_word():
+-    return random.choice(words)
+Index: Practice/practice_5/word list.txt
+===================================================================
+diff --git a/Practice/practice_5/word list.txt b/Practice/practice_5/word list.txt
+deleted file mode 100644
+--- a/Practice/practice_5/word list.txt	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,1 +0,0 @@
+-кошка стол мандарин зонт здание стрижка варенье планета рюкзак осень папа секрет велосипед радость песок чайник завтрак горы собака окна мечта библиотека лето дождь деньги компьютеры животное река погода мебель снег футбол улица перец стена берег море город шляпа дом шлем улица шляпа
+\ No newline at end of file
+Index: Practice/practice_5/__init__.py
+===================================================================
+diff --git a/Practice/practice_5/__init__.py b/Practice/practice_5/__init__.py
+deleted file mode 100644
+--- a/Practice/practice_5/__init__.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,1 +0,0 @@
+-__all__ = ['game_components', 'words']
+\ No newline at end of file
+Index: Practice/practice_5/record.txt
+===================================================================
+diff --git a/Practice/practice_5/record.txt b/Practice/practice_5/record.txt
+deleted file mode 100644
+--- a/Practice/practice_5/record.txt	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,1 +0,0 @@
+-1
+\ No newline at end of file
+Index: Practice/practice_5/words/__init__.py
+===================================================================
+diff --git a/Practice/practice_5/words/__init__.py b/Practice/practice_5/words/__init__.py
+deleted file mode 100644
+--- a/Practice/practice_5/words/__init__.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ /dev/null	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
+@@ -1,1 +0,0 @@
+-from .random_word import rand_word
+\ No newline at end of file
+Index: Practice/Practice_6/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from feature import Feature\nfrom utils.render import ConsoleRender\nfrom user import User\nimport os\n\nfunctions = {\n    \"0\": lambda feature: feature.change_directory(),\n    \"1\": lambda feature: feature.convert_to_docx(),\n    \"2\": lambda feature: feature.convert_to_pdf(),\n    \"3\": lambda feature: feature.compress_image(),\n    \"4\": lambda feature: feature.delete_group_files()\n}\n\noptions = [\n    'Сменить каталог',\n    'Преобразовать PDF -> Docx',\n    'Преобразовать Docx -> PDF',\n    'Сжать изображение',\n    'Удалить цепочку файлов',\n    'Выход'\n]\nuser_instance = User(os.getcwd())\nexecutor = Feature(user_instance)\n\nConsoleRender.render_line('\\n'.join([f\"{index}. {option}\" for index, option in enumerate(options[:5])]))\n\nwhile True:\n    task = user_instance.select(functions)[1]\n    if task:\n        task(executor)\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Practice/Practice_6/main.py b/Practice/Practice_6/main.py
+--- a/Practice/Practice_6/main.py	(revision a65aa176b55bd64bfd6a504a3c0dde9575fc6364)
++++ b/Practice/Practice_6/main.py	(date 1734611169530)
+@@ -8,7 +8,8 @@
+     "1": lambda feature: feature.convert_to_docx(),
+     "2": lambda feature: feature.convert_to_pdf(),
+     "3": lambda feature: feature.compress_image(),
+-    "4": lambda feature: feature.delete_group_files()
++    "4": lambda feature: feature.delete_group_files(),
++    "5": lambda feature: exit()  # Добавим выход из программы
+ }
+ 
+ options = [
+@@ -19,12 +20,17 @@
+     'Удалить цепочку файлов',
+     'Выход'
+ ]
++
+ user_instance = User(os.getcwd())
+ executor = Feature(user_instance)
+ 
+-ConsoleRender.render_line('\n'.join([f"{index}. {option}" for index, option in enumerate(options[:5])]))
++ConsoleRender.render_line('\n'.join([f"{index}. {option}" for index, option in enumerate(options)]))
+ 
+ while True:
+-    task = user_instance.select(functions)[1]
+-    if task:
+-        task(executor)
++    task_choice = user_instance.select(functions)  # Выбор действия от пользователя
++    if task_choice:
++        task = task_choice[1]
++        try:
++            task(executor)
++        except Exception as e:
++            ConsoleRender.render_line(f"Ошибка: {str(e)}")
+\ No newline at end of file
+Index: Practice/practice_8/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Practice/practice_8/main.py b/Practice/practice_8/main.py
+new file mode 100644
+--- /dev/null	(date 1734602725663)
++++ b/Practice/practice_8/main.py	(date 1734602725663)
+@@ -0,0 +1,56 @@
++import re
++import spacy
++from collections import Counter
++from translate import Translator
++
++# Инициализация инструмента
++nlp = spacy.load('xx_ent_wiki_sm')
++translator = Translator(to_lang="en")
++
++# Шаг 1: Чтение текста из файла
++def read_text(file_path):
++    with open(file_path, 'r', encoding='utf-8') as file:
++        return file.read()
++
++# Шаг 2: Нормализация слов (лемматизация)
++def normalize_words(text):
++    doc = nlp(text)
++    return [token.lemma_ for token in doc if not token.is_stop and not token.is_punct]
++
++# Шаг 3: Подсчет частоты слов
++def count_words(words):
++    return Counter(words)
++
++# Шаг 4: Перевод слов на английский язык
++def translate_words(word_counts):
++    translated_dict = {}
++    for word, count in word_counts.items():
++        try:
++            translated_word = translator.translate(word)
++            translated_dict[translated_word] = count
++        except Exception as e:
++            print(f"Ошибка при переводе слова '{word}': {e}")
++            translated_dict[word] = count
++    return translated_dict
++
++# Шаг 5: Сохранение результатов в файл
++def save_results(word_dict, output_file):
++    with open(output_file, 'w', encoding='utf-8') as file:
++        for word, count in word_dict.items():
++            file.write(f"{word}: {count}\n")
++
++# Основной рабочий процесс
++def main(input_file, output_file):
++    text = read_text(input_file)
++    normalized_words = normalize_words(text)
++    word_counts = count_words(normalized_words)
++    sorted_word_counts = dict(sorted(word_counts.items(), key=lambda x: -x[1]))
++    translated_word_counts = translate_words(sorted_word_counts)
++    save_results(translated_word_counts, output_file)
++    print(f"Результаты сохранены в {output_file}")
++
++# Замените на ваши пути к файлам
++input_file_path = 'chat.txt'  # Путь к входному текстовому файлу
++output_file_path = 'output_results.txt'  # Путь для сохранения результатов
++
++main(input_file_path, output_file_path)
