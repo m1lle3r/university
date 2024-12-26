@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d0c88a4-2732-48a2-aa2d-183c41d4d2af" name="Changes" comment="add new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/asdvzx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/main.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/warn-main.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/build/main/xref-main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/dist/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice_7/main.spec" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735202006096</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add new">
+      <option name="closed" value="true" />
+      <created>1735202654253</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735202654253</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add new">
+      <option name="closed" value="true" />
+      <created>1735202799507</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735202799507</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
