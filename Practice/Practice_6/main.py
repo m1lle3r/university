@@ -8,7 +8,8 @@ functions = {
     "1": lambda feature: feature.convert_to_docx(),
     "2": lambda feature: feature.convert_to_pdf(),
     "3": lambda feature: feature.compress_image(),
-    "4": lambda feature: feature.delete_group_files()
+    "4": lambda feature: feature.delete_group_files(),
+    "5": lambda feature: exit()  # Добавим выход из программы
 }
 
 options = [
@@ -19,12 +20,17 @@ options = [
     'Удалить цепочку файлов',
     'Выход'
 ]
+
 user_instance = User(os.getcwd())
 executor = Feature(user_instance)
 
-ConsoleRender.render_line('\n'.join([f"{index}. {option}" for index, option in enumerate(options[:5])]))
+ConsoleRender.render_line('\n'.join([f"{index}. {option}" for index, option in enumerate(options)]))
 
 while True:
-    task = user_instance.select(functions)[1]
-    if task:
-        task(executor)
+    task_choice = user_instance.select(functions)  # Выбор действия от пользователя
+    if task_choice:
+        task = task_choice[1]
+        try:
+            task(executor)
+        except Exception as e:
+            ConsoleRender.render_line(f"Ошибка: {str(e)}")
